@@ -1,0 +1,1 @@
+idk i want to make a simpler git alternative thats also compatible with it
